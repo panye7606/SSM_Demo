@@ -1,4 +1,4 @@
-##「 学生.班级 SSM_Demo」 
+## 「学生.班级 SSM_Demo」 
 
 
 ### 有些话想在最开始说
@@ -28,17 +28,17 @@
 
 ### 项目简图
 
-- 首页
+- 首页  
 ![预览图](https://github.com/Zhangxuan-Xing/SSM_Demo/blob/master/Picture/FirstPage.png)
 
-- 添加
+- 添加  
 ![预览图](https://github.com/Zhangxuan-Xing/SSM_Demo/blob/master/Picture/Creat.png)
 
-- 校验
+- 校验  
 ![预览图](https://github.com/Zhangxuan-Xing/SSM_Demo/blob/master/Picture/Validate.png)
 
-- 删除
+- 删除  
 ![预览图](https://github.com/Zhangxuan-Xing/SSM_Demo/blob/master/Picture/Delete.png)
 
-- 修改
+- 修改  
 ![预览图](https://github.com/Zhangxuan-Xing/SSM_Demo/blob/master/Picture/Update.png)
